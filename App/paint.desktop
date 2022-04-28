@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Paint
+Comment=Paint app
+Exec=/usr/bin/paint-1.0.0/Paint %U
+Icon=/usr/bin/paint-1.0.0/images/icon.png
+Terminal=false
+StartupWMClass=Paint
+Type=Application
+Categories=Education
