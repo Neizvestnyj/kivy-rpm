@@ -35,7 +35,7 @@ The application shortcut should appear in the education group
 dnf list
 # get info about our app
 dnf info paint
-# where out app installed
+# where our app installed
 rpm -ql paint
 # to remove app
 sudo dnf remove paint
